@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a97bb380-1dea-4eee-87a8-7ac3186b1492" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/OrderAgnosticBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueCeiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueEvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueFindWealthy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueFirstLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueInfiniteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueRotatedBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueRotationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueSearchMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueSmallestChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/QueSplitArrayLargestSumSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/RowColMatrixSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/SearchIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/com/uddhav/Sorted2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/ArmStrongNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/ArrayListUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/CountNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/InverseNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/Pali.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/PrimeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/Scoping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First Project/src/com/uddhav/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/QueFindAllDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/QueFindAllMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/QueFindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/QueFirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/QueMissingNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/QueSetMisMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/com/uddhav/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/Basic/datatype.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA/Basic/datatype.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/tempCodeRunnerFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/tempCodeRunnerFile.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="250bY6hFynqk0hN55P0Nf3c3p7y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a97bb380-1dea-4eee-87a8-7ac3186b1492" name="Changes" comment="" />
+      <created>1644667008531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644667008531</updated>
+    </task>
+    <servers />
+  </component>
+</project>
