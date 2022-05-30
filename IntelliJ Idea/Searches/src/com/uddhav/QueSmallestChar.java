@@ -21,7 +21,6 @@ public class QueSmallestChar {
                 start = mid + 1;
             }
         }
-
         return arr[start % arr.length];
     }
 }
